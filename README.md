@@ -7,5 +7,6 @@ Three machine learning algorithms were trained and compared:
 1.	Logistic Regression 
 2.	Support Vector Machine (SVM)
 3.	Multinomial Naïve Bayes
+
 Model performance was assed by using Accuracy, Precision, Recall, F1-Score, Classification Reports, and the 5-Fold Cross Validation.
 The results from the analysis have demonstrated that patient feedback can be classified into sentiment categories and that common service-related concerns can be identified through theme analysis. The select models provided a practical solution for monitoring patient sentiment.
